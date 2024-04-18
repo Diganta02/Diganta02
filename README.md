@@ -1,3 +1,5 @@
+![logo](https://github.com/Diganta02/Diganta02/blob/main/path.png)
+
 <h1 align="center">Hi 👋, I'm brownie</h1>
 <h3 align="center">A passionate software Engineer developer</h3>
 
