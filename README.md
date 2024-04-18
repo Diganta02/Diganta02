@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm brownie</h1>
 <h3 align="center">A passionate software Engineer developer</h3>
 
-<img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdtaGM4eXZ2aWgyZ2FmazR6c3E1cWhtaXd5bTd5cnhjdjdncjRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdtaGM4eXZ2aWgyZ2FmazR6c3E1cWhtaXd5bTd5cnhjdjdncjRhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diganta02&label=Profile%20views&color=0e75b6&style=flat" alt="diganta02" /> </p>
 
