@@ -1,4 +1,4 @@
-![logo](https://github.com/Diganta02/Diganta02/blob/main/top-logo.png)
+![logo](https://github.com/Diganta02/Diganta02/blob/main/HEADER.png)
 
 <h1 align="center">Hello world >> </h1>
 <h3 align="center">"Just another passionate software engineer"</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diganta02&label=Profile%20views&color=0e75b6&style=flat" alt="diganta02" /> </p>
 
-- 🎓Currently studying in *B.Tech computer science engineering*
+- 🎓 Currently studying in *B.Tech computer science engineering*
 
 - 📫 How to reach me *digantasahascience@gmail.com*
 
