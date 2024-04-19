@@ -1,4 +1,4 @@
-![logo](https://github.com/Diganta02/Diganta02/blob/main/HEADER.png)
+![logo](https://github.com/Diganta02/Diganta02/blob/main/hero.png)
 
 <h1 align="center">Hello world >> </h1>
 <h3 align="center">"Just another passionate software engineer"</h3>
